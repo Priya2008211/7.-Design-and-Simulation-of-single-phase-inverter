@@ -39,3 +39,4 @@ Design a Single Phase Inverter having the DC input supply of 100V and output res
 ## Output
 ![output](output2.png)
 ## Result
+Thus,the single-phase inverter circuit was successfully designed and simulated using MATLAB Simulink.
